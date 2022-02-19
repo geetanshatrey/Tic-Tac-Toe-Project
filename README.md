@@ -1,2 +1,2 @@
 # Tic Tac Toe Project
- Tic Tac Toe implementation in C++
+ Tic Tac Toe project implementation in C++
